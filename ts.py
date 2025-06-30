@@ -5,7 +5,7 @@
 # The application uses tkinter for UI and openpyxl for Excel handling.
 #
 # Author: Rong Zheng
-# Date: 2025-06-18
+# Date: 2025-06-30
 #
 # License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 # You are free to share and adapt this work, even commercially, as long as
